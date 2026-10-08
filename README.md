@@ -1,0 +1,2 @@
+# EarnAFNBot
+EarnAFN Telegram Bot
